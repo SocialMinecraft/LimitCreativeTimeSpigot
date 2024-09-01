@@ -1,0 +1,4 @@
+name: LimitCreativeTimeSpigot
+version: '1.0-SNAPSHOT'
+main: club.somc.limitCreativeTimeSpigot.LimitCreativeTimeSpigot
+api-version: '1.21'
